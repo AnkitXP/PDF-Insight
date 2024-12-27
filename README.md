@@ -16,7 +16,7 @@ To set up PDF Insight on your local machine, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/pdf-insight.git
+    git clone https://github.com/AnkitXP/pdf-insight.git
     cd pdf-insight
     ```
 
