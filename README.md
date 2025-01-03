@@ -43,7 +43,7 @@ To run the application:
 
 2. Open your web browser and navigate to the provided local URL (usually `http://localhost:8501`)
 
-3. Upload PDF documents using the sidebar
+3. Upload one or more PDF documents using the sidebar
 
 4. Start chatting with the AI about the content of your uploaded documents
 
